@@ -1,6 +1,6 @@
 ---
-permalink: /author_info/
-title: "About"
+permalink: /outreach/
+title: "Outreach"
 author_profile: true
 ---
 
