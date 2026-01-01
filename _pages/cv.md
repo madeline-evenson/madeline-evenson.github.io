@@ -79,11 +79,11 @@ author_profile: true
 - Gained hands-on experience working with neurodiverse and special needs students
 
 
-- **Conference for Undergraduate Women and Gender Minorities in Physics (CU\*iP)**  
-  *Boulder, CO | January 2025*
+**Conference for Undergraduate Women and Gender Minorities in Physics (CU\*iP)**  
+ *Boulder, CO | January 2025*
 
-- **Mid-American Regional Astrophysics Conference (MARAC)**  
-  *Lawrence, KS | December 2024*
+**Mid-American Regional Astrophysics Conference (MARAC)**  
+ *Lawrence, KS | December 2024*
 
 ---
 
