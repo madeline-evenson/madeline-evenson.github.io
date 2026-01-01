@@ -1,6 +1,6 @@
 ---
-permalink: /northwestern_reu/
-title: "Northwestern REU"
+permalink: /cv/
+title: "CV"
 author_profile: true
 ---
 
