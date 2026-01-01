@@ -9,6 +9,10 @@ author_profile: true
 
 This project was completed during the summer 2025 [Northwestern University](https://www.northwestern.edu) REU at the [Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)](https://ciera.northwestern.edu).
 
+## Poster
+
+[iPoster for January 2026 AAS Conference](https://aas247-aas.ipostersessions.com/?s=57-3F-1A-3F-F3-E7-F2-28-40-14-05-9D-1C-D0-14-61)
+
 ## Abstract
 
 This exploratory study examines the relationships between the emission line spectra of galaxies and their morphological properties to determine whether any correlations exist between the gas properties of HII regions and the physical characteristics of galaxies. We utilize recent JWST NIRSpec spectroscopic data in three bands to compute emission line flux ratios. We examine two BPT diagrams showing the relationship between the $[OIII]λ5007/Hβ$ emission line ratio and both the $[NII]λ6584/H⍺$ and $[SII]λ6717 + 6731/H⍺$ line ratios, respectively. We also examine two more emission line relationships: between the [OIII]λ5007/[OII]λ3729 and the [SIII]λ9531/[SII]λ 6717 + 6731 emission line ratios, and between the $[OIII]λ5007 / [OII]λ3729$ and the $([OIII]λ5007 + [OII]λ3729)/Hβ$ emission line ratios. We study the connections between these emission line diagnostics and emission line diagrams with several morphological properties and physical parameters: the effective radius $R_eff$ and mass of each galaxy, a measure of how compact/extended a galaxy is that we define as $Δlog(R_{eff})$, each galaxy's Sérsic index, and the electron density of each galaxy. We find there is a negative relationship between electron density and $Δlog(R_{eff})$. We present two possible solutions for the small number of correlations found: either there are not many correlations between the physical conditions of HII regions and the morphology of galaxies, or we are not yet examining properties that correlate.
@@ -144,9 +148,3 @@ Strom, A. L., Steidel, C. C., Rudie, G. C., et al. 2017, ApJ, 836, 164, doi: [10
 Vika, M., Vulcani, B., Bamford, S. P., Haubler, B., & Rojas, A. L. 2015, A&A, 577, A97, doi: [10.1051/0004-6361/201425174](https://www.aanda.org/10.1051/0004-6361/201425174)
 
 Virtanen, P., Gommers, R., Oliphant, T. E., et al. 2020, Nature Methods, 17, 261, doi: [10.1038/s41592-019-0686-2](https://www.nature.com/articles/s41592-019-0686-2)
-
-## Poster
-
-<figure style="text-align: center;">
-  <img src="{{ base_path }}/images/Evenson REU poster.pdf" alt="poster" width="600">
-</figure>
