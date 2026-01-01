@@ -32,7 +32,7 @@ author_profile: true
 ### Astrophysics REU — Northwestern University (CIERA)  
 *Jun 2025 – Aug 2025*  
 **Advisors:** Prof. Allison Strom, Dr. Tim Miller  
-🌐 https://ciera.northwestern.edu  
+🌐 [Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)](https://ciera.northwestern.edu) 
 
 - Analyzed **JWST spectroscopic data** to study connections between galaxy emission-line spectra and morphological properties
 - Participated in computational and data analysis workshops
@@ -72,7 +72,7 @@ author_profile: true
 
 ### Bell Museum Internship — University of Minnesota  
 *St. Paul, MN | May 2024 – Aug 2024*  
-🌐 https://www.bellmuseum.umn.edu  
+🌐 [Bell Museum](https://www.bellmuseum.umn.edu)  
 
 - Designed and led scientific experiments and activities for K–8 students
 - Communicated complex scientific concepts to young learners
@@ -122,10 +122,10 @@ author_profile: true
 *Aug 2023 – Present*  
 
 **Baldwin City Creative Arts** — Baldwin City, KS  
-🌐 https://www.bccreativearts.com/about  
+🌐 [Baldwin City Creative Arts](https://www.bccreativearts.com/about)  
 
 **Leigh’s School of Dance** — Olathe, KS  
-🌐 http://leighs.dance  
+🌐 [Leigh's School of Dance](http://leighs.dance)  
 
 - **8+ years** of dance teaching experience
 - Teach **10–15 hours/week** to 100+ students (ages 4–18+)
@@ -138,7 +138,7 @@ author_profile: true
 
 ### ThrYve Youth Protection Project — Lawrence, KS  
 *Summer 2025*  
-🌐 https://wethryve.ctb.ku.edu  
+🌐 [ThrYve](https://wethryve.ctb.ku.edu)  
 
 - Assisted with data collection and organization for youth violence prevention initiatives
 
