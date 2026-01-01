@@ -4,8 +4,6 @@ title: "CV"
 author_profile: true
 ---
 
-# Madeline Evenson
-
 📧 [madeline.evenson@gmail.com](mailto:madeline.evenson@gmail.com)  
 📞 612-297-4940  
 
@@ -15,19 +13,18 @@ author_profile: true
 
 ---
 
-## Education
+# Education
 
 ### University of Kansas — Lawrence, KS  
 **Physics (BS), Astronomy (BS), Dance (Minor)**  
 *Aug 2023 – Present*  
 
 - Expected graduation: **May 2026**
-- GPA: **3.93 / 4.00**
+- GPA: **3.92 / 4.00**
 - University Honors  
 - Department of Physics & Astronomy Honors  
 - Honor Roll
 
----
 
 ### Champlin Park High School — Champlin, MN  
 **Secondary Education**  
@@ -39,7 +36,7 @@ author_profile: true
 
 ---
 
-## Research Experience
+# Research Experience
 
 ### Astrophysics REU — Northwestern University (CIERA)  
 *Jun 2025 – Aug 2025*  
@@ -51,7 +48,6 @@ author_profile: true
 - Collaborated with faculty, postdocs, and graduate students
 - Presented research weekly
 
----
 
 ### Galaxy Research & Outreach Project — University of Kansas  
 *Nov 2024 – Jun 2025*  
@@ -62,7 +58,7 @@ author_profile: true
 
 ---
 
-## Presentations
+# Presentations
 
 - **Mid-American Regional Astrophysics Conference (MARAC)** — Columbia, MO  
   *December 2025*
@@ -81,7 +77,7 @@ author_profile: true
 
 ---
 
-## Professional Experience
+# Professional Experience
 
 ### Bell Museum Internship — University of Minnesota  
 *St. Paul, MN | May 2024 – Aug 2024*  
@@ -91,7 +87,6 @@ author_profile: true
 - Communicated complex scientific concepts to young learners
 - Gained hands-on experience working with neurodiverse and special needs students
 
----
 
 - **Conference for Undergraduate Women and Gender Minorities in Physics (CU\*iP)**  
   *Boulder, CO | January 2025*
@@ -101,14 +96,13 @@ author_profile: true
 
 ---
 
-## Honors & Awards
+# Honors & Awards
 
 ### Gene Feaster Scholarship — University of Kansas  
 *Fall 2025*  
 
 - **$9,590** scholarship awarded for excellence in undergraduate research, academic performance, and application essays
 
----
 
 ### Undergraduate Research Award — University of Kansas  
 *Fall 2025*  
@@ -117,14 +111,12 @@ author_profile: true
 - *Research Proposal:*  
   *Using archival Herschel data to measure gas consumption in galaxies as a function of galaxy environment*
 
----
 
 ### Harriett Johnson Scholarship — University of Kansas  
 *Spring 2025*  
 
 - **$765** scholarship awarded for excellence as a female student in STEM
 
----
 
 ### Physics & Astronomy Department Scholarship — University of Kansas  
 *Spring 2025*  
@@ -133,7 +125,7 @@ author_profile: true
 
 ---
 
-## Teaching Experience
+# Teaching Experience
 
 ### Instructor of Dance  
 *Aug 2023 – Present*  
@@ -151,7 +143,7 @@ author_profile: true
 
 ---
 
-## Volunteering Experience
+# Volunteering Experience
 
 ### ThrYve Youth Protection Project — Lawrence, KS  
 *Summer 2025*  
@@ -169,7 +161,7 @@ author_profile: true
 
 ---
 
-## Skills
+# Skills
 
 - **Technical:** Python, Jupyter Notebooks, GitHub, Command Line, Linux
 - Scientific communication and research presentation
