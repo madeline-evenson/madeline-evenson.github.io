@@ -8,14 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About"
-    url: /author_info/
+  - title: "Research Summary"
+    url: /research/
     
   - title: "Northwestern REU"
     url: /northwestern_reu/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Outreach"
+    url: /outreach/
 
   - title: "Contact"
     url: /contact/
