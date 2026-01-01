@@ -11,7 +11,7 @@ This project was completed during the summer 2025 [Northwestern University](http
 
 ## Poster
 
-[iPoster for January 2026 AAS Conference](https://aas247-aas.ipostersessions.com/?s=57-3F-1A-3F-F3-E7-F2-28-40-14-05-9D-1C-D0-14-61)
+[iPoster for January 2026 AAS Conference](https://aas247-aas.ipostersessions.com/Default.aspx?s=A9-80-55-51-77-98-04-95-BC-CB-5F-38-E9-D4-F0-48)
 
 ## Abstract
 
