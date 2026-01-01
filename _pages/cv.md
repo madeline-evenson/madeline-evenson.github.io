@@ -142,7 +142,6 @@ author_profile: true
 
 - Assisted with data collection and organization for youth violence prevention initiatives
 
----
 
 ### Sanitary Products Drive — Minneapolis, MN  
 *Spring 2023*  
