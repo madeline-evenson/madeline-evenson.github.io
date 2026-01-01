@@ -11,12 +11,13 @@ main:
   - title: "Northwestern REU"
     url: /northwestern_reu/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Contact"
     url: /contact/
 
-    
-  - title: "CV"
-    url: /cv/
+  
     
   # - title: "Guide"
   #   url: /markdown/
