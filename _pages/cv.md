@@ -4,6 +4,9 @@ title: "CV"
 author_profile: true
 ---
 
+{% include toc %}
+{% include base_path %}
+
 ## Education
 
 ### University of Kansas — Lawrence, KS  
