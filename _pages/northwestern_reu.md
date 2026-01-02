@@ -9,6 +9,8 @@ author_profile: true
 
 This project was completed during the summer 2025 [Northwestern University](https://www.northwestern.edu) REU at the [Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)](https://ciera.northwestern.edu).
 
+![CIERA]({{ base_path }}/images/Ciera Logo FINAL_CIERA_15_crest_purple.png){:width="300"}
+
 ## Poster
 
 [iPoster for January 2026 AAS Conference](https://aas247-aas.ipostersessions.com/Default.aspx?s=A9-80-55-51-77-98-04-95-BC-CB-5F-38-E9-D4-F0-48)
