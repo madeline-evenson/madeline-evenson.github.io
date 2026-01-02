@@ -18,4 +18,4 @@ This research is described in further depth on the [Northwestern REU](https://ma
 
 ![MARAC Presentation]({{ base_path }}/images/Screenshot 2026-01-01 at 6.50.52 PM.png){:width="400"}
 
-![CIERA]({{ base_path }}/images/Ciera Logo FINAL_CIERA_15_crest_purple.png){:width="400"}
+![CIERA]({{ base_path }}/images/Ciera Logo FINAL_CIERA_15_crest_purple.png){:width="200"}
