@@ -13,7 +13,6 @@ This project was completed during the summer 2025 [Northwestern University](http
 
 [iPoster for January 2026 AAS Conference](https://aas247-aas.ipostersessions.com/Default.aspx?s=A9-80-55-51-77-98-04-95-BC-CB-5F-38-E9-D4-F0-48)
 
-![MARAC Presentation]({{ base_path }}/images/IMG_8938.jpg){:width="400"}  
 
 ## Abstract
 
