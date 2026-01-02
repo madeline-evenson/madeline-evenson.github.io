@@ -1,7 +1,12 @@
 ---
 permalink: /cv/
-title: "CV" 
+title: "CV"
 author_profile: true
+toc: true
+toc_label: "Contents"
+toc_icon: "file-alt"
+toc_sticky: true
+toc_levels: 2
 ---
 
 {% include toc %}
