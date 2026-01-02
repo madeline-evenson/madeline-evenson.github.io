@@ -10,3 +10,5 @@ author_profile: true
 [Website](https://madeline-evenson.github.io/)  
 [LinkedIn](https://www.linkedin.com/in/madeline-evenson-128121344/)  
 [GitHub](https://github.com/madeline-evenson)
+
+![photo asf]({{ base_path }}/images/IMG_1013.png){:width="400"}
