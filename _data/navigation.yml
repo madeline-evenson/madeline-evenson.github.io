@@ -14,11 +14,11 @@ main:
   - title: "Northwestern REU"
     url: /northwestern_reu/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Outreach"
     url: /outreach/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "Contact"
     url: /contact/
