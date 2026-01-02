@@ -17,4 +17,3 @@ In summer 2025 I won a highly competitive Research Experience for Undergraduates
 This research is described in further depth on the [Northwestern REU](https://madeline-evenson.github.io/northwestern_reu/) page.
 
 ![CIERA Presentation]({{ base_path }}/images/Screenshot 2026-01-01 at 6.50.52 PM.png){:width="350"} ![CIERA]({{ base_path }}/images/Screenshot 2026-01-01 at 7.40.05 PM.png){:width="350"}
-![CIERA]({{ base_path }}/images/Ciera Logo FINAL_CIERA_15_crest_purple.png){:width="400"}
