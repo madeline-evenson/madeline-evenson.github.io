@@ -20,6 +20,6 @@ Along with research, I work as a dance instructor at two dance studios. I am the
 
 ![Dance]({{ base_path }}/images/event.61545.069.png){:width="400"}
 
-Outside of academics and dance, I am passinate about educational outreach (further discussed in [Outreach](https://madeline-evenson.github.io/outreach/), music, and reading. In my free time, I love to attend concerts, go thrifting with friends, and spend time with my cat, Agatha. 
+Outside of academics and dance, I am passinate about educational [outreach](https://madeline-evenson.github.io/outreach/), music, and reading. In my free time, I love to attend concerts, go thrifting with friends, and spend time with my cat, Agatha. 
 
 ![Agatha]({{ base_path }}/images/Screenshot 2026-01-03 at 9.29.34 AM.png){:width="400"}
