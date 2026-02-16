@@ -59,6 +59,9 @@ toc_levels: 2
 
 ## Presentations
 
+- **American Astronomical Society (AAS) Meeting** - Phoenix, AZ
+  *January 2026*
+
 - **Mid-American Regional Astrophysics Conference (MARAC)** — Columbia, MO  
   *December 2025*
 
@@ -161,7 +164,7 @@ toc_levels: 2
 
 ## Skills
 
-- **Technical:** Python, Jupyter Notebooks, GitHub, Command Line, Linux
+- **Technical:** Python, Spyder IDE, Jupyter Notebooks, GitHub, Command Line, Linux
 - Scientific communication and research presentation
 - Teamwork, leadership, organization, time management
 
