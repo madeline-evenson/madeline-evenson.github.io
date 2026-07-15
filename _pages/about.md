@@ -18,7 +18,7 @@ My current research focuses on using archival Herschel far-infrared photometry o
 
 Along with research, I work as a dance instructor at two dance studios. I am the Director of Competition Dance at [Baldwin City Creative Arts](https://www.bccreativearts.com/), and I also teach technique classes at [Leigh's School of Dance](https://leighs.dance/). Dance has always been an important part of my life, and I recently choreographed for the Spring 2026 KU Student Showcase and performed in the Spring 2025 [*Snap Snap, Begin Again, an improvised performance for Bold Women*](https://calendar.ku.edu/event/snap-snap-begin-again-an-improvised-performance-for-bold-women).
 
-![Student Showcase]({{ base_path }}/images/IMG_1845.jpg){:width="300"}
+![Student Showcase]({{ base_path }}/images/IMG_1845.jpg){:width="250"}
 ![Snap Snap]({{ base_path }}/images/event.61545.069.png){:width="400"}
 
 Outside of academics and dance, I am passinate about educational [outreach](https://madeline-evenson.github.io/outreach/), music, and reading. In my free time, I love to attend concerts, go thrifting with friends, and spend time with my cat, Agatha. 
