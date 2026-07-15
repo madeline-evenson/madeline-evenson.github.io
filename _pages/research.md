@@ -6,11 +6,11 @@ author_profile: true
 
 ## University of Kansas
 
-# Current Research:
+### Current Research:
 
 My current research focuses on using archival Herschel far-infrared photometry of galaxies within the Virgo Filament Survey to determine the gas and dust contents in galaxies as a function of position within the galaxy. By coupling these measurements with co-spatial SFR measures, I will be able to estimate the gas depletion timescales throughout each sample galaxy and search for signs that galaxy environment modifies the way galaxies form stars. I presented this work to the Virgo Filament Survey Team in May 2026. I began this work in fall 2025, and will finish this project in my first year as a graduate student at KU.
 
-# Undergraduate Research
+### Undergraduate Research:
 
 During my second year studying at the University of Kansas, I began conducting research under Dr. Gregory Rudnick as a member of KU’s Galaxy Group. From 2024-2025, I worked with a fellow undergraduate and collaborated with Dr. John Moustakas from Siena University to develop a Zooniverse civilian science platform designed to improve the quality and accuracy of the upcoming 2025 Siena Galaxy Atlas catalog of large galaxies and the DESI Legacy Imaging Survey’s Data Release 11, a follow-up to the 2020 SGA catalog [1]. The platform allowed a large audience to visually inspect images of SGA galaxies and estimate morphological centers and galaxy orientations to feed into the automated catalog software. These initial estimates are crucial because automated routines struggle with large nearby galaxies. I played a key role in enabling students to contribute to the project, despite them not being experts in extragalactic astronomy. In March 2025, I presented this work to the DESI/Legacy Survey Imaging team and convinced them to contribute to this platform. Collaborating with a partner and handling all volunteer communication strengthened my teamwork and communication abilities. 
 
