@@ -15,6 +15,10 @@ toc_levels: 2
 ## Education
 
 ### University of Kansas — Lawrence, KS
+**MS Physics, PhD Physics**  
+*May 2026 - present*
+
+### University of Kansas — Lawrence, KS
 **B.S. Physics, B.S. Astronomy, Minor in Dance**  
 *Completed May 2026*
 
