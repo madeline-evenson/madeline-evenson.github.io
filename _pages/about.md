@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! My name is Madeline Evenson (she/her/hers), and I am a first year physics graduate student at the [University of Kansas](https://www.ku.edu) originally from Minneapolis, Minnesota. I graduated in spring 2026 from KU with Bachelor's of Science degrees in astronomy and physics, along with a minor in dance. I am a member of the KU Galaxies Group conducting research under [Dr. Gregory Rudnick](https://rudnick.ku.edu). 
 
-![Me]({{ base_path }}/images/IMG_1007.png){:width="400"}
+![Me]({{ base_path }}/images/ASMO4235.jpg){:width="400"}
 
 My current research focuses on using archival Herschel far-infrared photometry of galaxies within the Virgo Filament Survey to determine the gas and dust contents in galaxies as a function of position within the galaxy. By coupling these measurements with co-spatial SFR measures, I will be able to estimate the gas depletion timescales throughout each sample galaxy and search for signs that galaxy environment modifies the way galaxies form stars.
 
