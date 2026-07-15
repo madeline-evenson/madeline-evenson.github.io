@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Madeline Evenson - Astrophysics Student"
+title                    : "Madeline Evenson - Graduate Student"
 title_separator          : "-"
 name                     : &name "Madeline Evenson"
 description              : &description ""
